@@ -1,0 +1,1 @@
+coap-pubsub_src = coap-pubsub-broker.c coap-pubsub-client.c
